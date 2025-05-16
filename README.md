@@ -2,6 +2,8 @@
 # 📈 Kafka-Based Stock Market Streaming Data Pipeline
 
 This project implements a real-time stock market data simulation using **Kafka**, with the data flowing through **EC2**, **S3**, **AWS Glue**, and **Amazon Athena** for analysis.
+## Project Architecture
+![PROJECT_ARCH](https://github.com/user-attachments/assets/f94e11d3-8c00-4525-9974-afbbefd6fbc0)
 
 ---
 
